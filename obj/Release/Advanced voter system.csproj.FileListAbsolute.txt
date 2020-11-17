@@ -1,0 +1,9 @@
+C:\Users\dhurb\Desktop\REEEEEEEEEEEE\Advanced Voter ststem\Advanced voter system\bin\Release\Advanced voter system.exe.config
+C:\Users\dhurb\Desktop\REEEEEEEEEEEE\Advanced Voter ststem\Advanced voter system\bin\Release\Advanced voter system.exe
+C:\Users\dhurb\Desktop\REEEEEEEEEEEE\Advanced Voter ststem\Advanced voter system\bin\Release\Advanced voter system.pdb
+C:\Users\dhurb\Desktop\REEEEEEEEEEEE\Advanced Voter ststem\Advanced voter system\obj\Release\Advanced_voter_system.Form1.resources
+C:\Users\dhurb\Desktop\REEEEEEEEEEEE\Advanced Voter ststem\Advanced voter system\obj\Release\Advanced_voter_system.Properties.Resources.resources
+C:\Users\dhurb\Desktop\REEEEEEEEEEEE\Advanced Voter ststem\Advanced voter system\obj\Release\Advanced voter system.csproj.GenerateResource.cache
+C:\Users\dhurb\Desktop\REEEEEEEEEEEE\Advanced Voter ststem\Advanced voter system\obj\Release\Advanced voter system.csproj.CoreCompileInputs.cache
+C:\Users\dhurb\Desktop\REEEEEEEEEEEE\Advanced Voter ststem\Advanced voter system\obj\Release\Advanced voter system.exe
+C:\Users\dhurb\Desktop\REEEEEEEEEEEE\Advanced Voter ststem\Advanced voter system\obj\Release\Advanced voter system.pdb
