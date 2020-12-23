@@ -48,7 +48,7 @@ namespace Advanced_voter_system
 
         private void button4_Click(object sender, EventArgs e)
         {
-            VotesForBiden = VotesForBiden + 1000;
+            VotesForBiden += 1000;
             label5.Text = Convert.ToString(VotesForBiden);
         }
     }
